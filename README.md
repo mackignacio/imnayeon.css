@@ -5,7 +5,7 @@
 
 A lightweight grid system based on toast with a beauty and modern design.
 
-![Im Nayeon](https://raw.githubusercontent.com/WarenGonzaga/imnayeon.css/master/img/imnayeon-icon-with-sign.jpg | width=300)
+<img src="https://raw.githubusercontent.com/WarenGonzaga/imnayeon.css/master/img/imnayeon-icon-with-sign.jpg" alt="Im Nayeon" width="300px" height="auto"/>
 
 First icon of this open source project. A fan art for her birthday. I will upload the official icon soon.
 
