@@ -31,7 +31,8 @@ ImNayeon.css is Developed and Maintained by **Waren Gonzaga**
 
 - **Facebook:** https://facebook.com/warengonzagaofficialpage
 - **Twitter:** https://twitter.com/waren_gonzaga
-- **Email:** warengonzaga.dev@gmail.com
+- **Website:** https://warengonzaga.com
+- **Email:** dev@warengonzaga.com
 
 ---
 
