@@ -5,18 +5,18 @@
 
 A lightweight grid system based on toast with a beauty and modern design.
 
-## First Icon
-
-<img src="https://raw.githubusercontent.com/WarenGonzaga/imnayeon.css/master/img/imnayeon-icon-with-sign.jpg" alt="Im Nayeon" width="300px" height="auto"/>
-
-First icon of this open source project. A fan art for her birthday. I will upload the official icon soon.
-
 ## Official Icon
 
 <img src='https://avataaars.io/?avatarStyle=Circle&topType=LongHairStraight2&accessoriesType=Blank&hairColor=BrownDark&facialHairType=Blank&clotheType=CollarSweater&clotheColor=PastelBlue&eyeType=Happy&eyebrowType=DefaultNatural&mouthType=Smile&skinColor=Pale'
 />
 
 Here's the official icon of this open source project!
+
+## First Icon
+
+<img src="https://raw.githubusercontent.com/WarenGonzaga/imnayeon.css/master/img/imnayeon-icon-with-sign.jpg" alt="Im Nayeon" width="200px" height="auto"/>
+
+First icon of this open source project. A fan art for her birthday.
 
 ## Installation
 
