@@ -1,9 +1,0 @@
-{
-  "name": "imnayeon-css",
-  "version": "0.1.0",
-  "main": [
-    "scss/_grid.scss"
-  ],
-  "license": "MIT",
-  "homepage": "https://github.com/WarenGonzaga/imnayeon.css"
-}
