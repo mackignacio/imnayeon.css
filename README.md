@@ -5,13 +5,54 @@
 
 A lightweight grid system based on toast with a beauty and modern design.
 
+## First Icon
+
 <img src="https://raw.githubusercontent.com/WarenGonzaga/imnayeon.css/master/img/imnayeon-icon-with-sign.jpg" alt="Im Nayeon" width="300px" height="auto"/>
 
 First icon of this open source project. A fan art for her birthday. I will upload the official icon soon.
 
-## Status
+## Official Icon
 
-This project is under development...
+<img src='https://avataaars.io/?avatarStyle=Circle&topType=LongHairStraight2&accessoriesType=Blank&hairColor=BrownDark&facialHairType=Blank&clotheType=CollarSweater&clotheColor=PastelBlue&eyeType=Happy&eyebrowType=DefaultNatural&mouthType=Smile&skinColor=Pale'
+/>
+
+Here's the official icon of this open source project!
+
+## Installation
+
+_imnayeon.css requires Node.js v4+ to run._
+
+**Install requirements**
+```terminal
+npm install gulp-cli -g && npm install gulp -D && npm -i
+```
+
+**Build your imnayeon.css**
+```terminal
+gulp bunny
+```
+
+A new folder will appear called _"prod"_ folder. The CSS inside is your latest build. Also the CSS in the root location should be your latest build. 
+
+## Customization
+
+Just edit the _"imnayeon.scss"_ file.
+
+## Usage
+
+If you use a grid system before then you have now idea on how to use this css grid system. I will show you some basic usage of this css grid system.
+
+```html
+<div class="imnayeon">
+<div class="imnayeon__col imnayeon__col--6-of-12">
+A half-width column.
+</div>
+<div class="imnayeon__col imnayeon__col--6-of-12">
+A half-width column.
+</div>
+</div>
+```
+Pretty straight-forward right? That's it!
 
 ## Donate
 

@@ -1,0 +1,28 @@
+{
+  "name": "imnayeon.css",
+  "version": "1.0.0",
+  "description": "A lightweight grid system based on toast with a beauty and modern design.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WarenGonzaga/imnayeon.css.git"
+  },
+  "author": "Waren Gonzaga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WarenGonzaga/imnayeon.css/issues"
+  },
+  "homepage": "https://github.com/WarenGonzaga/imnayeon.css",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-header": "^2.0.9",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {}
+}
